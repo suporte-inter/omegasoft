@@ -1,0 +1,42 @@
+.gallery .control-button {
+  color: #ccc;
+  color: rgba(255, 255, 255, 0.4);
+}
+
+.gallery .control-button:hover {
+  color: white;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/*
+	Theme controls how everything looks in Gallery CSS.
+*/
+.gallery {
+  position: relative;
+}
+
+/* Caixa de transição das imagens */
+.gallery .item {
+  height: 250px;
+  width: 1200px;
+  /* border: 3px solid black;*/
+  overflow: hidden;
+  text-align: center;
+  background: white;
+  margin-bottom: 40px;
+}
+.gallery .controls {
+  position: absolute; /* Se colocar relative as bolinhas descem */
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.gallery .control-button {
+  display: inline-block;
+  margin: 0 .02em;
+  font-size: 2.5em; /*Alterei para 2.5 para ficar dentro da barra superior */
+  text-align: center;
+  text-decoration: none;
+  transition: color .1s;
+  
+}
