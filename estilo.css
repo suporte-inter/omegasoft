@@ -3,17 +3,17 @@
 
 @font-face{
 	font-family: 'FonteMenu';
-	 src: url("../fonts/TINWD.ttf");
+	 src: url("TINWD.ttf");
 }
 
 @font-face{
 	font-family: 'FonteBanner';
-	 src: url("../fonts/COPRGTB.ttf");
+	 src: url("COPRGTB.ttf");
 }
 
 @font-face{
 	font-family: 'FonteLogo';
-	src: url("../fonts/bubblegum-sans-regular.otf");
+	src: url("bubblegum-sans-regular.otf");
 }
 
 /* Formatacao das Palavras dos FIELDSET da pagina Fale conosco */
