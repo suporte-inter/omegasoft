@@ -111,6 +111,7 @@ header ul li:hover{
             
 header ul li a{
     text-decoration: none;
+	padding: 12px;
     color: white;  
 	font-size: 15pt;
     /* font-weight: bolder;*/
