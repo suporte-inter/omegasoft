@@ -1,5 +1,5 @@
 @chartset "UTF-8";
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web); /* Utilizando fontes externas */
+@import url('http://fonts.googleapis.com/css?family=Titillium+Web'); /* Utilizando fontes externas */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 
 @font-face{
