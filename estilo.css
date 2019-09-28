@@ -1,5 +1,6 @@
 @chartset "UTF-8";
 @import url(http://fonts.googleapis.com/css?family=Titillium+Web); /* Utilizando fontes externas */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 
 @font-face{
 	font-family: 'FonteMenu';
@@ -110,10 +111,11 @@ header ul li:hover{
 }
             
 header ul li a{
-    text-decoration: none;
+    	text-decoration: none;
 	padding: 12px;
-    color: white;  
-	font-size: 15pt;
+    	color: white;  
+	font-family: 'Titillium Web', 'Ubuntu', 'FonteMenu';
+	font-size: 18px;
     /* font-weight: bolder;*/
 }
             
