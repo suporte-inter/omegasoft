@@ -105,7 +105,7 @@ header ul li{
 	}
 
 /* Mudar cor de fundo do Links do MENU */
-header ul li:hover{
+header ul li a:hover{
 	background-color: #37633E;
 	
 }
