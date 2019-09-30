@@ -99,7 +99,6 @@ footer p{
             
   /* Fonte do MENU */      
 header ul li{
-    font-family: 'FonteMenu';
     font-size: 16pt;
     list-style: none; /* Tira bolinha do li */
     display:inline-block;  /* Exibir Menu na Horizontal*/
@@ -115,7 +114,7 @@ header ul li a:hover{
 /*Fontes do Menu */            
 header ul li a{
     	text-decoration: none;
-	padding: 12px;
+	padding: 12px 0;
     	color: white;  
 	font-family: 'Titillium Web', 'Ubuntu', 'FonteMenu', monospace;
 	font-size: 18px;
