@@ -114,7 +114,7 @@ header ul li a:hover{
 /*Fontes do Menu */            
 header ul li a{
     	text-decoration: none;
-	padding: 12px 0;
+	padding: 12px;
     	color: white;  
 	font-family: 'Titillium Web', 'Ubuntu', 'FonteMenu', monospace;
 	font-size: 18px;
