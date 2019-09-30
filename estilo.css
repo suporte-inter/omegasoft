@@ -2,6 +2,7 @@
 @import url('http://fonts.googleapis.com/css?family=Titillium+Web'); /* Utilizando fontes externas */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Changa&display=swap');
 
 @font-face{
 	font-family: 'FonteMenu';
@@ -267,12 +268,12 @@ fieldset#campo-direito-index {
 	background-color: #304F79;
 	color: white;
 	margin-top: 220px;
-	padding: 10px;
-	font-family:  FonteBanner, Cooper Std, Courier new, Arial, Verdana;
-	font-size: 18pt;
+	padding: 5px;
+	font-family:  Changa, FonteBanner, Cooper Std, Courier new, Arial, Verdana;
+	font-size: 22pt;
 	border-radius: 10px;
 	margin-bottom: 60px;
-	font-weight: bolder;
+	/*font-weight: bolder;*/
 	/*font-style: italic;*/
 	
 }
