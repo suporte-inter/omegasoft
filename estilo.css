@@ -1,6 +1,7 @@
 @chartset "UTF-8";
 @import url('http://fonts.googleapis.com/css?family=Titillium+Web'); /* Utilizando fontes externas */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 @font-face{
 	font-family: 'FonteMenu';
@@ -85,7 +86,7 @@ footer{
 
 /* Caracteres do rodape */
 footer p{
-	font-family: Tahoma, Arial;
+	font-family: monospace, Ubuntu, Roboto, Tahoma, Arial;
 	font-size: 9pt;
 	color: white;
 	padding: 10px;
