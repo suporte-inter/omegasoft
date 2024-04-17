@@ -220,7 +220,7 @@ fieldset#campo-direito-index {
 	text-decoration: none;
 }
 
-.autor::hover{
+.autor:hover{
 	color: orange;
 }
 
