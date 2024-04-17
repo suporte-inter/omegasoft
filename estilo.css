@@ -215,6 +215,15 @@ fieldset#campo-direito-index {
 	float: right;
 }
 
+.autor{
+	color:white;
+	text-decoration: none;
+}
+
+.autor:over{
+	color: orange;
+}
+
 #titulo-fontes{
 	background-color:#CAF1DE;
 	height: 30px;
