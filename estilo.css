@@ -217,11 +217,11 @@ fieldset#campo-direito-index {
 
 .autor{
 	color:white;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .autor:hover{
-	color: orange;
+	color: oranged;
 }
 
 #titulo-fontes{
